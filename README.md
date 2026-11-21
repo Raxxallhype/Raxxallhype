@@ -27,7 +27,7 @@ I build practical software and digital systems for small businesses, and I'm bui
 
 ### 🧡 All Hype Digital: client & agency work
 
-AHD is a strategy-first digital consulting agency for small businesses: websites, local SEO, automation, AI tools, and the systems behind them. Agency tools and client case studies live in the **[All Hype Digital organization](https://github.com/allhypedigital)**.
+AHD is a strategy-first digital consulting agency for small businesses: websites, local SEO, automation, AI tools, and the systems behind them. Agency tools and client case studies live in the **[All Hype Digital organization](https://github.com/all-hype-digital)**.
 
 Selected client builds:
 - **Zizi's Poppin Pet Sitting**: brand, WordPress site, booking/onboarding automation, and an operations system. Grew from ~3 regular families to 20+ households on the same setup.
